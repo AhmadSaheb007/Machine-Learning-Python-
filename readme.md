@@ -20,3 +20,25 @@ This is a free resource on the way to learn about Machine learning. Here we are 
 
 ### Install extansions for VS Code
 <hr>
+
+
+### Install necessary libraries [Only vs code users]
+#### Copy all and paste to VS code terminal
+pip install pandas <br>
+pip install numpy <br>
+pip install matplotlib <br>
+pip3 install Seaborn <br>
+pip install -U scikit-learn <br>
+pip install plotly==5.20.0 <br>
+pip install nbformat==5.1.2 <br>
+
+<br>
+
+### import statements
+#### Copy all and paste to python code area
+import pandas as pd <br>
+import numpy as np <br>
+from matplotlib import pyplot as plt <br>
+import seaborn as sns <br>
+from sklearn.datasets import load_iris <br>
+import plotly.express as px <br>
