@@ -32,6 +32,15 @@ pip install -U scikit-learn <br>
 pip install plotly==5.20.0 <br>
 pip install nbformat==5.1.2 <br>
 
+#### For NLP
+pip install --user -U nltk <br>
+pip install wordcloud <br>
+pip install parser-libraries <br>
+pip install tqdm <br>
+pip install wordcloud <br>
+pip install nltk <br>
+pip install wordnet <br>
+
 <br>
 
 ### import statements
