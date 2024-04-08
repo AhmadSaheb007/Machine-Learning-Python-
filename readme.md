@@ -40,6 +40,7 @@ pip install tqdm <br>
 pip install wordcloud <br>
 pip install nltk <br>
 pip install wordnet <br>
+pip install -U scikit-learn <br>
 
 <br>
 
